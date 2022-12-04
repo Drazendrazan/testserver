@@ -1,0 +1,42 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ex_exec_warehouse_placement_interior_2_int_warehouse_l_dlc_milo_2.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>ex_int_warehouse_large_dlc_2.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>ex_int_warehouse_l_dlc_2.ybn</Item>
+    <Item>hi@id2_15_0.ybn</Item>
+    <Item>id2_15_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>ex_decals_2.ydr</Item>
+    <Item>ex_edgedirt_np.ydr</Item>
+    <Item>ex_int_warem_shutters001.ydr</Item>
+    <Item>ex_int_warem_shutters001_np.ydr</Item>
+    <Item>ex_shell_warehouse_otto.ydr</Item>
+    <Item>ex_shell_warehousem_np.ydr</Item>
+    <Item>ex_warel_shutters_2.ydr</Item>
+    <Item>id2_15_bld_04.ydr</Item>
+    <Item>id2_15_gnd_01.ydr</Item>
+    <Item>lr_prop_warehouse_door_01.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>id2_15_slod1_children.ydd</Item>
+    <Item>id2_19_emissive_slod_children.ydd</Item>
+    <Item>id2_lod_emissive_children.ydd</Item>
+    <Item>id2_lod_emissive_ref_children.ydd</Item>
+    <Item>id2_lod_slod4_children.ydd</Item>
+    <Item>id2_props_combo0709_slod_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>

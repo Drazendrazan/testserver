@@ -1,0 +1,37 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_po1_10_long_0.ymap</Item>
+    <Item>tony_warehouse_club.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>ex_int_warehouse_large_dlc_2.ytyp</Item>
+    <Item>tony_warehouse.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>ex_int_warehouse_l_dlc_2.ybn</Item>
+    <Item>ex_int_warehouse_m_dlc_np.ybn</Item>
+    <Item>hei_po1_10_1.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>ex_edgedirt_np.ydr</Item>
+    <Item>ex_int_warem_shutters001.ydr</Item>
+    <Item>ex_int_warem_shutters001_np.ydr</Item>
+    <Item>ex_shell_warehousem_np.ydr</Item>
+    <Item>ex_warel_shutters_2.ydr</Item>
+    <Item>lr_prop_warehouse_door_01.ydr</Item>
+    <Item>po1_10_new_yell1.ydr</Item>
+    <Item>po1_10_new_yell1_detail.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>po1_10_lod.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>

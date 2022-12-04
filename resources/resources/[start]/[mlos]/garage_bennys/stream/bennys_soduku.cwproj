@@ -1,0 +1,95 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames />
+  <YtypFilenames>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_garage_int.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_int.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\lsw skateboard\v_res_skateboard.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\prop_supermod_door_01\lr_prop_supermod_door_01.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\prop_supermod_lframe\lr_prop_supermod_lframe.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\sc1_02\lr_sc1_02_storge.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cm_heatlamp_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cm_panelstd_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cm_weldmachine_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cor_hose_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cs_drill_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cs_jerrycan01_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cs_toolbox2_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodd_cs_tray02_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smodrv_2socket_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_barrel_01a_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_carcreeper_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_carjack_01.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_compressor_01_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_compressor_02_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_compressor_03.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_engine_hoist_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_oilcan_01a_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_sacktruck_02a_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_toolchest9.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_toolchest_02_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_toolchest_05_001.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_toolchest_05_002.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_banners004.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_banners1.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_banners2.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_banners3.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_beams1.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_beams2.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_beamsref1.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_beamsref3.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_carlift.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_carlift2.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_detail_ref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_dirt.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_dirtb.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_framework.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_frameworkref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_grafiti.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_grafside.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_int_shell.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_int_shellref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_int_shell_sun_shadows.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_lamps.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_lampsref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_lamps_source_off.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_lamps_source_on.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_mezzanine.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_mezzanine_dressing.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_montage.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_montage_ref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_montx.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_office.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_pillars.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_rail1.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_rail2.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_ramps.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_reffloor1.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_sky_light002.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_spray.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_sprayref.ydr</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_v_45_racks.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\prop_supermod_door_01\lr_prop_supermod_door_01+hidr.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\prop_supermod_lframe\lr_prop_supermod_lframe.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\sc1_02\lr_sc1_02_build_dlc+hi.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\sc1_02\lr_sc1_02_build_dlc.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_smod_barrel_01a_001+hidr.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_dirt+hidr.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_txd+hi.ytd</Item>
+    <Item>c:\users\shiva\desktop\1dd469-sokudochasers garage 2 (1)\supermod_garage_int\lr_supermod_txd.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
