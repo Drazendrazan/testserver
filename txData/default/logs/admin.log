@@ -1,0 +1,69 @@
+
+================================================================
+======== txAdmin Starting - 12/4/2022, 12:17:01 AM              
+================================================================
+
+================================================================
+======== Log Rotated - 12/4/2022, 12:17:01 AM                   
+================================================================
+[01:32:20] [viyer] logged in from 192.168.1.167 via password
+[01:32:30] [viyer] refresh
+[01:32:36] [viyer] ensure "bennys_anywhere"
+[01:42:51] [viyer] ensure "bennys_anywhere"
+[01:44:52] [viyer] ensure "bennys_anywhere"
+[01:45:43] [viyer] ensure "bennys_anywhere"
+[01:50:48] [viyer] ensure "bennys_anywhere"
+[01:54:42] [viyer] stop "bennys_anywhere"
+[01:54:53] [viyer] ensure "bennys_anywhere"
+[01:55:49] [viyer] ensure "bennys_anywhere"
+[01:56:33] [viyer] ensure "bennys_anywhere"
+[01:57:11] [viyer] ensure "bennys_anywhere"
+[01:58:12] [viyer] ensure "bennys_anywhere"
+[01:59:55] [viyer] ensure "bennys_anywhere"
+[02:00:18] [viyer] ensure "bennys_anywhere"
+[02:00:48] [viyer] ensure "bennys_anywhere"
+[02:03:05] [viyer] ensure "bennys_anywhere"
+[02:05:38] [viyer] refresh
+[02:21:17] [viyer] refresh
+[02:21:27] [viyer] ensure "addon_menu-master"
+[02:24:19] [viyer] refresh
+[02:24:24] [viyer] ensure "addon_menu-master"
+[02:24:34] [viyer] ensure "NativeUI"
+[02:24:52] [viyer] ensure "addon_menu-master"
+[02:25:06] [viyer] ensure "addon_menu-master"
+[02:25:49] [viyer] ensure "addon_menu-master"
+[02:28:01] [viyer] ensure "addon_menu-master"
+[02:29:08] [viyer] ensure "addon_menu-master"
+[02:29:25] [viyer] stop "vMenu-texture"
+[02:30:12] [viyer] ensure "addon_menu-master"
+
+================================================================
+======== txAdmin Starting - 12/4/2022, 11:51:08 PM              
+================================================================
+
+================================================================
+======== txAdmin Starting - 12/4/2022, 11:55:25 PM              
+================================================================
+[23:56:15] [viyer] logged in from 192.168.1.227 via password
+[23:59:04] [viyer] STOP SERVER
+[00:00:25] [viyer] logged in from 192.168.1.167 via password
+[00:00:32] [viyer] RESTART SERVER
+[00:01:26] [viyer] STOP SERVER
+[00:05:39] [viyer] RESTART SERVER
+[00:07:19] [viyer] STOP SERVER
+
+================================================================
+======== txAdmin Starting - 12/5/2022, 12:09:15 AM              
+================================================================
+[00:13:03] [viyer] logged in from 192.168.1.227 via password
+[00:13:14] [viyer] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 12/5/2022, 12:40:40 AM              
+================================================================
+[00:54:02] [viyer] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 12/5/2022, 1:14:37 AM               
+================================================================
+[01:14:48] [viyer] logged in from 192.168.1.227 via password

@@ -1,0 +1,32 @@
+
+================================================================
+======== txAdmin Starting - 10/8/2022, 11:08:27 PM              
+================================================================
+
+================================================================
+======== Log Rotated - 10/8/2022, 11:08:28 PM                   
+================================================================
+[23:14:53] [viyer] logged in from 127.0.0.1 via password
+[23:15:01] [viyer] refresh
+[23:17:39] [viyer] RESTART SERVER
+[23:18:03] [viyer] RESTART SERVER
+[23:20:17] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[23:24:18] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[23:26:21] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[23:32:25] [viyer] logged in via in-game ui
+[00:15:13] [viyer] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 10/9/2022, 12:38:15 PM              
+================================================================
+[12:39:20] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[12:44:25] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[12:52:09] [viyer] logged in from 127.0.0.1 via password
+[12:54:01] [viyer] refresh
+[12:54:08] [viyer] ensure "animated"
+[12:56:25] [viyer] stop "Koofyhouse"
+[12:58:09] [viyer] logged in via in-game ui
+[13:26:33] [viyer] logged in via in-game ui
+[13:34:22] [viyer] logged in from via NUI iframe
+[13:34:23] [viyer] logged in from via NUI iframe
+[13:34:23] [viyer] logged in from via NUI iframe

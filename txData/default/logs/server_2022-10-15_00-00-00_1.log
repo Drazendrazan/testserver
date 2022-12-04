@@ -1,0 +1,15 @@
+
+================================================================
+======== txAdmin Starting - 10/15/2022, 7:43:39 PM              
+================================================================
+
+================================================================
+======== Log Rotated - 10/15/2022, 7:43:40 PM                   
+================================================================
+[7:45:47 PM] txAdmin: Logger started
+[7:57:03 PM] [WJaE8#1] Shiva: joined with identifiers [license:29f0e0445ab3b2bbdc76df476bf591a8bda9373e; fivem:2221581; license2:29f0e0445ab3b2bbdc76df476bf591a8bda9373e]
+[8:17:34 PM] [WJaE8#1] Shiva: disconnected (Game crashed: RAGE error: ERR_MEM_EMBEDDEDALLOC_GUARD_5)
+[8:20:50 PM] [WJaE8#2] Shiva: joined with identifiers [license:29f0e0445ab3b2bbdc76df476bf591a8bda9373e; fivem:2221581; license2:29f0e0445ab3b2bbdc76df476bf591a8bda9373e]
+[8:25:47 PM] [WJaE8#2] Shiva: disconnected (Exiting)
+[8:28:19 PM] [WJaE8#3] Shiva: joined with identifiers [license:29f0e0445ab3b2bbdc76df476bf591a8bda9373e; fivem:2221581; license2:29f0e0445ab3b2bbdc76df476bf591a8bda9373e]
+[8:30:16 PM] [WJaE8#3] Shiva: disconnected (Server shutting down: SIGHUP received)

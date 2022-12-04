@@ -1,0 +1,23 @@
+
+================================================================
+======== txAdmin Starting - 10/7/2022, 10:40:08 PM              
+================================================================
+[22:41:46] [viyer] created admins file
+[22:42:41] [viyer] Changing global settings via setup stepper and started Deployer.
+[22:42:44] [viyer] Setting recipe.
+[22:44:28] [viyer] Running recipe.
+[22:45:06] [viyer] Completed and committed server deploy.
+
+================================================================
+======== txAdmin Starting - 10/7/2022, 10:47:35 PM              
+================================================================
+[22:49:41] [viyer] logged in from 127.0.0.1 via password
+[22:50:09] [viyer] ensure "vMenu"
+[22:52:22] [viyer] Changing fxRunner settings.
+[22:52:23] [viyer] Changing fxRunner settings.
+[22:52:36] [viyer] RESTART SERVER
+[22:59:12] [viyer] logged in via in-game ui
+[23:00:24] [viyer] ensure "vMenu"
+[23:01:56] [viyer] RESTART SERVER
+[23:05:51] [viyer] logged in via in-game ui
+[23:16:41] [viyer] logged in via in-game ui

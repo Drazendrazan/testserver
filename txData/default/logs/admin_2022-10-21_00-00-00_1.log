@@ -1,0 +1,15 @@
+
+================================================================
+======== txAdmin Starting - 10/21/2022, 3:37:08 PM              
+================================================================
+
+================================================================
+======== Log Rotated - 10/21/2022, 3:37:08 PM                   
+================================================================
+[15:40:03] [viyer] logged in from 127.0.0.1 via password
+[15:40:26] [viyer] Changing fxRunner settings.
+[15:40:39] [viyer] RESTART SERVER
+[15:50:17] [viyer] ensure "money-fountain-example-map"
+[15:50:19] [viyer] ensure "ped-money-drops"
+[15:50:20] [viyer] ensure "money"
+[15:53:25] [viyer] logged in via in-game ui

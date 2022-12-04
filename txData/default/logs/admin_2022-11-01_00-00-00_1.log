@@ -1,0 +1,77 @@
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 2:27:06 AM              
+================================================================
+
+================================================================
+======== Log Rotated - 10/31/2022, 2:27:06 AM                   
+================================================================
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 2:27:49 AM              
+================================================================
+[02:29:25] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 2:31:57 AM              
+================================================================
+[02:33:39] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[02:35:09] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[02:42:47] [viyer] logged in via in-game ui
+[03:04:40] [viyer] logged in from 127.0.0.1 via password
+[03:04:52] [viyer] ensure "ez-drift"
+[03:05:06] [viyer] ensure "sw-nitro-1.0.1"
+[03:06:39] [viyer] ensure "sw-nitro-1.0.1"
+[03:13:05] [viyer] logged in via in-game ui
+[03:22:07] [viyer] RESTART SERVER
+[03:24:33] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[03:27:28] [viyer] restart fivem-map-skater
+[03:27:40] [viyer] ensure "fivem-map-skater"
+[03:31:03] [viyer] logged in via in-game ui
+[03:33:48] [viyer] ensure "fivem-map-skater"
+[03:38:15] [viyer] logged in via in-game ui
+[04:33:26] [viyer] RESTART SERVER
+[04:41:52] [viyer] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 11:22:06 AM             
+================================================================
+[11:24:57] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 3:54:01 PM              
+================================================================
+[15:59:15] [viyer] logged in via in-game ui
+[16:11:20] [viyer] logged in from 127.0.0.1 via password
+[16:15:49] [viyer] refresh
+[16:15:59] [viyer] ensure "drift"
+[16:16:00] [viyer] ensure "nitro"
+[16:16:00] [viyer] stop "ez-drift"
+[16:16:09] [viyer] stop "sw-nitro-1.0.1"
+[16:16:13] [viyer] refresh
+[16:19:10] [viyer] logged in via in-game ui
+[18:08:34] [viyer] RESTART SERVER
+[18:12:01] [viyer] RESTART SERVER
+[18:12:05] [MONITOR] Restarting server (server failed to start within time limit - 120s max per resource, or 60s total).
+[18:14:04] [viyer] refresh
+[18:14:09] [viyer] ensure "cinematiccam"
+[18:14:10] [viyer] stop "cinecam"
+[18:28:35] [viyer] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 10/31/2022, 11:40:01 PM             
+================================================================
+[23:43:16] [viyer] logged in from 192.168.1.152 via password
+[23:51:56] [viyer] logged in via in-game ui
+[00:18:19] [viyer] logged in via in-game ui
+[00:31:56] [viyer] ensure "nonpc"
+[00:52:22] [viyer] stop "assets_songs_0"
+[00:52:23] [viyer] stop "assets_songs_1"
+[00:52:23] [viyer] stop "assets_songs_2"
+[00:52:24] [viyer] stop "assets_songs_3"
+[00:52:25] [viyer] stop "assets_songs_4"
+[00:52:25] [viyer] stop "assets_songs_5"
+[00:52:26] [viyer] stop "assets_songs_data"
+[00:52:33] [viyer] stop "assets_sounds"
+[00:52:33] [viyer] stop "assets_songs_data"
+[00:55:34] [viyer] logged in from via NUI iframe

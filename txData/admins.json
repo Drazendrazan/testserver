@@ -1,0 +1,21 @@
+[
+  {
+    "name": "viyer",
+    "master": true,
+    "password_hash": "$2a$11$cdwWjSFz0JbryealI4PegO4yLJ9qDEflTwdIthk.1TVCYE0tE3gOy",
+    "providers": {
+      "citizenfx": {
+        "id": "viyer",
+        "identifier": "fivem:2221581",
+        "data": {
+          "sub": "bcb3d4b796bcb438a5732eba5ff9ef2e",
+          "nameid": "https://forum.cfx.re/internal/user/2221581",
+          "name": "viyer",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/viyer/256/1205945_2.png",
+          "profile": "https://forum.cfx.re/u/viyer"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
